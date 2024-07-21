@@ -4,7 +4,7 @@ import { PhotoIcon, UserCircleIcon } from '@heroicons/react/24/solid'
 export default function Form() {
   return (
     <form>
-      <div className="space-y-12 border px-7 rounded-xl  border-gray-900/10 shadow-lg">
+      <div className="space-y-12 border px-7 rounded-xl bg-white border-gray-900/10 shadow-2xl">
         <div className="pb-12">
         <h2 className="py-8 text-center text-3xl font-bold text-black">Job Application</h2>
           <h2 className="text-base font-semibold leading-7 text-gray-900">Profile</h2>
